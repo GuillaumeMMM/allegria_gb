@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "buttons": {
+            "home": "Home",
+            "talent": "Talent",
+            "brand": "Brand",
+            "contact": "Contact"
+        },
+        "contact": {
+            "name": "Name",
+            "message": "Message",
+            "send": "Send"
+        },
+        "notfound": "Sorry, this page does not exist!"
+    },
+    "main": {
+        "title": {
+            "subtitle": "ALLEGRIA is a Paris based digital agency specialized in Influence. We offer a premium service for brands and influencers who wish to achieve outstanding collaborations, and create quality content."
+        },
+        "scrollContent": {
+            "title1": "RESHAPE THE INFLUENCE",
+            "title2": "AN AUDIENCE IN SEARCH OF AUTHENTICITY",
+            "title3": "THE MORE INVOLVED AN INFLUENCER IS, THE MORE ENGAGED WILL BE HIS SUBSCRIBERS",
+            "title4.1": "A QUALITATIVE ",
+            "title4.2": "E-PR",
+            "title4.3": " SERVICE",
+            "title5": "KEEP IN TOUCH",
+
+            "horizontalDisplay1": {
+                "text1": "The days of unboxings and obvious product placements are over.",
+                "text2": "Allegria wants to create premium and engaging content for brands and influencers, using simple codes borrowed from the luxury industry in order to refresh sponsored contents."
+            },
+
+            "horizontalDisplay2": {
+                "text1": "The prescribing voices, whether youTubers, Instagramers, experts or celebrities, is now a must-have marketing tool. Yet, they are rarely consulted when developing the Influence marketing operations’ briefs...",
+                "text2": "Allegria wants to place influencers at the center of the strategic and creative process of brand campaigns. Highly aware of their audience needs and desires, their opinion is valuable. With their involvement, collaborations will be definitely more successful!"
+            },
+
+            "verticalDisplay": {
+                "text1.1": "At Allegria, we like to make beautiful encounters, which is why we prefer human relationships ",
+                "text1.2": "above all else !",
+                "text2": "Rather than signing many influencers in exclusivity or using plaxorms to connect brands and influencers through computers, sometimes leading to incoherent encounters, Allegria is commiWed to offer a taylored casting, with reliable talents that we personally know, so we can guarantee their seriousness and commitment."
+            }
+        }
+    },
+    "talent": {
+        "title": {
+            "title.1": "WELCOME ",
+            "title.2": "TO ALLEGRIA !",
+            "subtitle": "ALLEGRIA is a Paris based digital agency specialized in Influence. We offer a premium service for brands and influencers who wish to achieve outstanding collaborations, and create quality content."
+        },
+        "scrollContent": {
+            "title1": "NO EXCLUSIVITY",
+            "title2.1": "TAILORED ASSISTANCE ",
+            "title2.2": "ACCORDING TO YOUR NEEDS",
+            "title3": "EXCITING AND AUTHENTIC COLLABS",
+            "title4.1": "OUR EXPERIENCE ",
+            "title4.2": "IN YOUR SERVICE",
+            "title5": "NO EXCLUSIVITY",
+            "title6": "EXCITING AND AUTHENTIC COLLABS",
+            "title7.1": "TAILORED ASSISTANCE ",
+            "title7.2": "ACCORDING TO YOUR NEEDS",
+            "title8.1": "OUR PHILOSOPHY : WITHOUT INFLUENCERS, ",
+            "title8.2": "NO INFLUENCE",
+            "title9": "EVENTS",
+            "title10.1": "PHOTO / VIDEO ",
+            "title10.2": "SHOOTING",
+            "title11.1": "Do not hesitate to contact us if you have a project or you just want to discuss, we will be happy ",
+            "title11.2": "to read you!",
+            
+            "text1.1": "Freedom garuanteed ",
+            "text1.2": ";) ",
+            "text1.3": "Just ring us when you need us!",
+            "text2": "We will always try our best to harmonize the brands demands with your editorial line.",
+            "text3": "You need to find new collaborators? You want to refresh your feed with exciting contents, collaborating with our creative team, or just to organize your birthday in a sumptuous settng? We’ll be happy to help!",
+            "text4.1": "At Allegria, we believe that every project, every collaboration must be the fruit of a common reflection between brands and influencers. Nobody knows better than you what your subscribers expect, so your opinion ",
+            "text4.2": "very valuable ;)",
+            "text5": "In addition to usual business collabs, we offer a personalized support :",
+            "text6.1": "You can call Allegria to create an event, or a trip related to your ",
+            "text6.2": "news or personal needs ",
+            "text6.3": ";)",
+            "text7": "Our creative team includes photographers, filmmakers, stylists, editors, ... the image being our strenght, we will be happy to advise you and collaborate on any of your projects, according to your desires and your needs"
+        }
+    },
+    "brand": {
+        "title": {
+            "title.1": "BONJOUR AND WELCOME ",
+            "title.2": "TO ALLEGRIA !",
+            "subtitle": ""
+        },
+        "scrollContent": {
+            "title1": "YOU WISH TO", 
+            "title2.1": "Develop your brand image and extend ",
+            "title2.2": "your visibility",
+            "title3.1": "Create original and quality content for your ",
+            "title3.2": "digital platforms",
+            "title4.1": "Collaborate with committed and successful ",
+            "title4.2": "influencers ?",
+            "title5.1": "ALLEGRIA OFFERS A TAILORED ASSISTANCE ACCORDING TO",
+            "title5.2": "YOUR NEEDS",
+            "title6": "OUR EXPERTISE AND OUR NETWORK AT YOUR SERVICE",
+            "title7": "INFLUENCE STRATEGY AND MARKETING",
+            "title8.1": "CONTENT ",
+            "title8.2": " PRODUCTION",
+            "title9": "ORGANIZATION OF MEDIA EVENTS",
+            "title10": "OUR STRENGHTS",
+            "title11": "CONTACT US",
+    
+            "text1": "Depending on your objectives and your budget, we offer you a customized recommendation including :",
+            "text2": "Casting",
+            "text3": "shortlist of the Micro/Macro influencers whose audience matches with your target",
+            "text4": "Adapted content",
+            "text5": "Creative and narrative recommendation + creation of the Influencer’s brief",
+            "text6": "A release schedule",
+            "text7": "Best platforms and the proper time to optimize your reach",
+            "text8": "Depending on your needs, your launches... we offer to create tailored content through original concepts in order to assert your image and engage your audience",
+            "text9": "PR et Conseil",
+            "text10": "A long-lasting and trusted relationship with hundreds of Influencers",
+            "text11": "A multi-year experience in this constantly changing environment",
+            "text12.1": "A creative team with assertive styles: photographers, graphic designers, filmmakers, stylists, models, MUA... with you to realize all your projects ",
+            "text12.2": "even the craziest ones !"
+        }
+    }
+}

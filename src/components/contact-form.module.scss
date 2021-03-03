@@ -1,0 +1,84 @@
+@import '../styles/variables.scss';
+
+.container {
+    margin-top: 30px;
+    
+    .contactBox {
+        width: 75%;
+        margin-left: 12.5%;
+        margin-bottom: 30px;
+
+        textarea {
+            width: 100%;
+            height: 200px;
+            border: 1px solid $main-color;
+            resize: none;
+            padding: 10px;
+            font-size: 1.5em;
+            font-family: Doyle Black, Arial, Helvetica, sans-serif;
+            background-color: transparent;
+            color: $main-color;
+
+            &::placeholder {
+                color: $main-color-transparent;
+            }
+        }
+
+        input {
+            width: 100%;
+            height: 1.8em;
+            padding: 10px;
+            font-size: 1.5em;
+            font-family: Doyle Black, Arial, Helvetica, sans-serif;
+            border: 1px solid $main-color;
+            margin-bottom: 30px;
+            color: $main-color;
+            background-color: transparent;
+            color: $main-color;
+
+            padding-top: 11px;
+
+            &::placeholder {
+                color: $main-color-transparent;
+            }
+        }
+    }
+
+
+    .centralButton {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 180px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .contactBox {
+
+        textarea {
+            height: 150px !important;
+            font-size: 1em !important;
+        }
+
+        input {
+            height: 1.3em;
+            font-size: 1em !important;
+        }
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .contactBox {
+
+        textarea {
+            height: 100px !important;
+            font-size: 0.8em !important;
+        }
+
+        input {
+            height: 1.1em;
+            font-size: 0.8em !important;
+        }
+    }
+  }

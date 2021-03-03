@@ -1,21 +1,28 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import Main from './main';
+import { Helmet } from "react-helmet";
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import DoyleBlack from "../assets/fonts/Doyle-Black.otf";
+import NewParisSkyline from "../assets/fonts/NewParis-Skyline.otf";
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+export default () => (
+    <div className="application">
+        <Helmet>
+            <meta charSet="utf-8" />
+            <title>Allegria</title>
+            <meta name="description" content="ALLEGRIA est une agence digitale spécialisée en Influence. Nous offrons un service premium pour les marques et les influenceurs qui ont le désir de réaliser des collaborations remarquées, et du contenu de qualité."></meta>
+
+            <link rel="preload"
+                as="font"
+                href={DoyleBlack}
+                type="font/opentype"
+                crossOrigin="anonymous" />
+            <link rel="preload"
+                as="font"
+                href={NewParisSkyline}
+                type="font/opentype"
+                crossOrigin="anonymous" />
+        </Helmet>
+        <Main />
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
-
-export default IndexPage
+);

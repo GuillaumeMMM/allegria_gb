@@ -1,0 +1,36 @@
+@import './variables.scss';
+
+.main-container {
+    width: 100%;
+    // background-color: blue;
+    color: $main-color;
+    overflow-x: hidden;
+
+    .landing {
+        width: 100%;
+        min-height: 100vh;
+    }
+
+    .content {
+        width: 100%;
+        position: relative;
+    }
+
+
+    .language {
+        position: fixed;
+        z-index: 10;
+        right: 0;
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .main-container {
+        .landing {
+            display: flex;
+            flex-direction: column;
+            min-height: auto !important;
+        }
+    }
+  }

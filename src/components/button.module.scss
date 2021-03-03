@@ -1,0 +1,50 @@
+@import '../styles/variables.scss';
+
+.container {
+    // background-color: orange;
+    border: $main-color 1px solid;
+    display: inline-block;
+    font-family: Doyle Black, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    padding: 4px 35px;
+    border-radius: 1.2em;
+    letter-spacing: 1px;
+    cursor: pointer;
+    padding-top: 7px; // Font not centered
+
+    -webkit-transition: background-color 0.3s, color 0.3s;
+    -moz-transition: background-color 0.3s, color 0.3s;
+    -o-transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.3s, color 0.3s;
+
+    &:hover {
+        color: white;
+        background-color: $main-color;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        font-size: 0.9em;
+        padding: 4px 30px;
+
+        &:hover {
+            color: inherit;
+            background-color: inherit;
+        }
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container {
+        //font-size: 0.6em;
+        //padding: 1px 10px;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+    .container {
+        font-size: 2em;
+    }
+}

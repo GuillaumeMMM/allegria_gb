@@ -1,0 +1,125 @@
+{
+    "test": "Test",
+    "meta": {
+        "buttons": {
+            "home": "Accueil",
+            "talent": "Talent",
+            "brand": "Brand",
+            "contact": "Contact"
+        },
+        "contact": {
+            "name": "Nom",
+            "message": "Message",
+            "send": "Envoyer"
+        },
+        "notfound": "Désolé, cette page n'existe pas!"
+    },
+    "main": {
+        "title": {
+            "subtitle": "ALLEGRIA est une agence digitale spécialisée en Influence. Nous offrons un service premium pour les marques et les influenceurs qui ont le désir de réaliser des collaborations remarquées, et du contenu de qualité."
+        },
+        "scrollContent": {
+            "title1": "REPENSER L’INFLUENCE",
+            "title2": "UNE AUDIENCE À LA RECHERCHE D’AUTHENTICITÉ",
+            "title3": "DES INFLUENCEURS IMPLIQUÉS POUR DES ABONNÉS PLUS ENGAGÉS",
+            "title4.1": "UN SERVICE ",
+            "title4.2": "E-PR DE",
+            "title4.3": " QUALITÉ",
+            "title5": "ON RESTE EN CONTACT",
+
+            "horizontalDisplay1": {
+                "text1": "L’époque des unboxings et placements de produits trop évidents est révolue.",
+                "text2": "Allegria souhaite proposer aux marques et aux influenceurs la création de contenus authentiques, premiums et engageants, en utilisant des codes simples, empruntés au luxe qui rafraichissent les contenus sponsorisés."
+            },
+
+            "horizontalDisplay2": {
+                "text1": "La voix des prescripteurs, qu’ils soient YouTubeurs, Instagrameurs, experts ou célébrités, est désormais un outil marketing incontournable. Pourtant, ils sont souvent peu consultés lors de l’élaboraton des briefs...",
+                "text2": "Allegria souhaite replacer les influenceurs au centre du processus stratégique et créatif des campagnes de marque. Connaissant leurs audiences mieux que quiconque leur avis est précieux. Réellement Impliqués, les collaborations n’en seront que plus réussies !"
+            },
+
+            "verticalDisplay": {
+                "text1.1": "Chez Allegria, nous aimons faire de belles rencontres, c’est pourquoi nous privilégions les rapports humains ",
+                "text1.2": "par-dessus tout !",
+                "text2": "Plutôt que de signer une multitude d’influenceurs en exclusivité, ou de mettre en relation les marques et les influenceurs de façon hasardeuse via des plateformes en ligne, Allegria s’engage a proposer un casting sur mesure, avec des talents fiables que nous connaissons personnellement, et dont nous garantissons le sérieux et l’engagement."
+            }
+        }
+    },
+    "talent": {
+        "title": {
+            "title.1": "WELCOME ",
+            "title.2": "CHEZ ALLEGRIA !",
+            "subtitle": "ALLEGRIA est une agence digitale spécialisée en Influence. Nous offrons un service premium pour les marques et les influenceurs qui ont le désir de réaliser des collaborations remarquées, et du contenu de qualité."
+        },
+        "scrollContent": {
+            "title1": "PAS D'EXCLU",
+            "title2.1": "UN ACCOMPAGNEMENT ",
+            "title2.2": "SUR MESURE SELON TES BESOINS",
+            "title3": "DES COLLABORATIONS EXCITANTES ET AUTHENTIQUES",
+            "title4.1": "NOTRE EXPERIENCE ",
+            "title4.2": "A TON SERVICE",
+            "title5": "PAS D’EXCLU",
+            "title6": "DES COLLABORATIONS AUTHENTIQUES",
+            "title7.1": "UN ACCOMPAGNEMENT ",
+            "title7.2": "SUR MESURE SELON TES BESOINS",
+            "title8.1": "NOTRE PHILOSOPHIE : SANS INFLUENCEURS, ",
+            "title8.2": "PAS D’INFLUENCE",
+            "title9": "EVENEMENTIEL",
+            "title10.1": "SHOOTING ",
+            "title10.2": "PHOTO & VIDEO",
+            "title11.1": "N’hésite pas à nous écrire si tu as un projet, ou si tu souhaites juste discuter, nous serons ravis ",
+            "title11.2": "de te lire !",
+            
+            "text1.1": "Liberté garantie ",
+            "text1.2": ";) ",
+            "text1.3": "Fais nous signe seulement quand tu en as besoin !",
+            "text2": "Chez Allegria, il nous tient à cœur de trouver le juste équilibre entre les besoins des marques et ta ligne éditoriale, pour créer des contenus qui te ressemblent !",
+            "text3": "Tu cherches de nouvelles marques avec lesquelles collaborer ? Tu aimerais booster ton feed avec des contenus WOW produits en collaboration avec nos équipes créatives ? Tu as envie d’organiser ta soirée d’anniversaire dans un cadre de rêve ? Nous serons ravis de t’aider !",
+            "text4.1": "Chez Allegria, nous pensons que chaque projet, chaque collaboration doit être le fruit d’une réflexion commune entre les marques et les influenceurs. Personne ne sait mieux que vous ce qu’attendent vos abonnés, votre avis est donc ",
+            "text4.2": "très précieux ;)",
+            "text5": "Notre offre influenceur propose, en plus des opérations commerciales classiques, un accompagnement personnalisé",
+            "text6.1": "Tu peux faire appel à Allegria pour organiser un évènement ou un voyage, ",
+            "text6.2": "à des fins pro ou perso ",
+            "text6.3": ";)",
+            "text7": "Nous travaillons avec de nombreux photographes, vidéastes stylistes, monteurs... L’image étant notre point fort, nous serons ravis de te conseiller et de collaborer sur des contenus sponsorisé ou non, selon tes envies et tes besoins"
+        }
+    },
+    "brand": {
+        "title": {
+            "title.1": "BONJOUR ET BIENVENUE ",
+            "title.2": "CHEZ ALLEGRIA !",
+            "subtitle": ""
+        },
+        "scrollContent": {
+            "title1": "VOUS DÉSIREZ", 
+            "title2.1": "Développer votre image de marque et gagner ",
+            "title2.2": "en visibilité ?",
+            "title3.1": "Créer des contenus originaux et de qualité pour vos plateformes ",
+            "title3.2": "digitales ?",
+            "title4.1": "Collaborer avec des influenceurs engagés et ",
+            "title4.2": "performants ?",
+            "title5.1": "ALLEGRIA VOUS PROPOSE UN ACOMPAGNEMENT SUR MESURE SELON",
+            "title5.2": "VOS BESOINS ;)",
+            "title6": "NOTRE EXPERTISE ET NOTRE RÉSEAU À VOTRE SERVICE",
+            "title7": "STRATEGIE ET MARKETING D’INFLUENCE",
+            "title8.1": "PRODUCTION ",
+            "title8.2": "DE CONTENU",
+            "title9": "ORGANISATION D'ÉVÈNEMENTS MÉDIAS",
+            "title10": "NOS FORCES",
+            "title11": "ĖCRIVEZ NOUS",
+    
+            "text1": "Selon vos objectifs et votre budget, nous vous proposons une recommandation sur mesure",
+            "text2": "Un casting",
+            "text3": "Micro ou macro influenceurs dont l’audience correspond à votre cible.",
+            "text4": "Des contenus adaptés",
+            "text5": "Recommandation créative et narrative et mise en forme des briefs destinés aux Influenceurs.",
+            "text6": "Un planning de diffusion",
+            "text7": "Mécanique, choix des plateformes et calendrier de publication",
+            "text8": "Selon vos besoins, vos plateformes, vos lancements, nous vous proposons de créer du contenu sur mesure grâce à des concepts originaux, pour affirmer votre image et engager votre audience",
+            "text9": "PR et Conseil",
+            "text10": "Une relation de longue date et de confiance avec des centaines d’Influenceurs",
+            "text11": "Une experience de plusieurs années dans ce milieu en constante mutation",
+            "text12.1": "Une équipe de créatifs avec des styles affirmés photographes, graphistes, réalisateurs, stylistes, modèles, MUA pour réaliser tous vos projets même",
+            "text12.2": "les plus fous !"
+        }
+    }
+}
